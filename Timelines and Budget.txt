@@ -1,0 +1,31 @@
+
+Budget Distribution
+
+Category                      Estimate Cost(BDT)
+Project Manager                25000
+Devoloper                      2*20000               
+Deployment                     5000
+tools                          5000
+Micelious cost                 5000
+Tax*                           5000
+total                          85000
+
+Timelines
+
+analysis                  april 3 - april 6
+frontend design           april 7 - 14
+
+landing page and
+about company running      april 14 -april 21
+interface
+
+services                   april 21 - april 28
+
+payment gateway            april 29 - april 6
+
+additional features
+(review , comment, FAQ)    march 7 - march 14
+
+deployment & testing       march 15 - march 22
+(Feedback)
+
